@@ -1,7 +1,5 @@
 # CPU-MC68000-cpp
 
-<br><br>
-
 Motorola MC68000
 
 <br><br>
@@ -14,7 +12,7 @@ https://user-images.githubusercontent.com/10168979/184546343-65f79b02-5580-49df-
 
 
 
-use Genesis Plus as a reference
+use Genesis Plus, Musashi as a reference  
 
 C to C++
 
